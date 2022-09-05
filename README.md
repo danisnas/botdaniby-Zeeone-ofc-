@@ -45,7 +45,7 @@ apt update && apt upgrade
 pkg install bash nodejs ffmpeg libwebp git mc yarn
 git clone https://github.com/danisnas/botdaniby-Zeeone-ofc-.git
 
-cd botdaniby-Zeeone-ofc--main
+cd botdaniby-Zeeone-ofc-
 yarn
 rm -rf session.json
 npm start
